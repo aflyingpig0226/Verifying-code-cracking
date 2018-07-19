@@ -114,4 +114,4 @@ if __name__ == "__main__":
 
 # 训练库链接：https://pan.baidu.com/s/1Oc3vbJYzaldt_8RF-t3tFQ 密码：61ys
 # 验证码图片：https://pan.baidu.com/s/13aYAjXUzAGMMyF7D-mmamA 密码：eh10
-#GitHub：
+#GitHub：https://github.com/ruibababa/Verifying-code-cracking
